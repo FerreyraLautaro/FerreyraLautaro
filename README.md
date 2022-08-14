@@ -1,4 +1,4 @@
-![Hola Mundo](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/assets/holamundo.gif)
+![Hola Mundo](https://github.com/FerreyraLautaro/FerreyraLautaro/tree/master/assets/holamundo.gif)
 
 <h2 align="center">
   💻Desarrlador FullStack
@@ -10,8 +10,8 @@
 
 <p>
 
-<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize32px.gif"></a>
-<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize64px.gif"></a>
+<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/tree/master/icons/sequelize32px.png"></a>
+<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize64px.png"></a>
 💻Conocimientos
 
 </p>
