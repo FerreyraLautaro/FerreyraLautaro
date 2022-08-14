@@ -26,17 +26,8 @@
 
 <p>
 
-<a>
-
-[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/link.png)](https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/)
-</a>
-<a>
-
-[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png)](mailto:ferreyralautaro69@gmail.com)
-</a>
-<a>
-
-[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png)](https://api.whatsapp.com/send?phone=3513348627)
-</a>
+<a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/"><img src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/link.png"></a>
+<a href="mailto:ferreyralautaro69@gmail.com"><img src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png"></a>
+<a href="https://api.whatsapp.com/send?phone=3513348627"><img src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png"></a>
 
 </p>
