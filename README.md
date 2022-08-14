@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;
 
-## Lenguajes y Herramientas:
+## 🛠 Lenguajes y Herramientas:
 
 <p  width='40%' align="center">
 
@@ -22,11 +22,10 @@
 
 &nbsp;
 
-## :paperclip: Como contactarme:
+## 📎 Como contactarme:
 
 <span>
 <a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" target="_blank"><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/link.png"/></a>
-&nbsp;
 <a href="mailto:ferreyralautaro69@gmail.com" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png"/></a>
 <a href="https://api.whatsapp.com/send?phone=3513348627" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png"/></a>
 </span>
