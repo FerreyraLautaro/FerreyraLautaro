@@ -1,4 +1,4 @@
-![Hola Mundo](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/assets/holamundo.gif)
+![Hola Mundo](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/assets/holamundoFix.gif)
 
 <h2 align="center">
   💻Desarrlador FullStack
@@ -20,7 +20,7 @@
 
 ## :paperclip: Como contactarme:
 
-[Hello, world!](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png/){target="\_blank"}
+[Hello, world!](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png/){:target="\_blank"}
 <span>
 <a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" target="_blank"><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/linkedIn.png"/></a>
 &nbsp;
