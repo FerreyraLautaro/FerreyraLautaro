@@ -10,9 +10,9 @@
 
 <p>
 
- <img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize32px.gif">
- <img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize64px.gif">
-  💻Conocimientos
+<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize32px.gif"></a>
+<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize64px.gif"></a>
+💻Conocimientos
 
 </p>
 
