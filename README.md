@@ -24,6 +24,8 @@
 
 ## 📎 Como contactarme:
 
+[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/link.png)](https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/)
+
 <span>
 <a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" target="_blank"><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/link.png"/></a>
 <a href="mailto:ferreyralautaro69@gmail.com" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png"/></a>
