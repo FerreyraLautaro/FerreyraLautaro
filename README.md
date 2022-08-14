@@ -12,13 +12,16 @@
 
 ## **🧑🏾 Sobre Mi**
 
-Me apasiona la programación, el continuo aprendizaje y enfrentarme a nuevos desafios.
+<p>
+Me apasiona la programación, el continuo aprendizaje y enfrentarme a nuevos desafíos.
 
-Realize el Bootcamp de Soy Henry donde me desarrolle como programador fullstack.
+Realicé el Bootcamp de Soy Henry donde me desarrollé como programador FullStack.
 
-Soy profesional en los proyectos a realizar, priorizando un codigo limpio y legible para facilitar la interaccion de otra persona con el mismo.
+Soy profesional en los proyectos a realizar, priorizando un código limpio y legible para facilitar la interacción de otra persona con el mismo.
 
 También considero fundamentales las relaciones humanas y el trabajo en equipo para un objetivo en conjunto.
+
+</p>
 
 ---
 
