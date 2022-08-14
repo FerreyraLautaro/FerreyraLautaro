@@ -24,8 +24,10 @@
 
 ## 📎 Como contactarme:
 
-[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/link.png)](https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/){:target="\_blank"}
+<span>
+[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/link.png)](https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/)
 
-[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png)](mailto:ferreyralautaro69@gmail.com){:target="\_blank"}
+[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png)](mailto:ferreyralautaro69@gmail.com)
 
-[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png)](https://api.whatsapp.com/send?phone=3513348627){:target="\_blank"}
+[![](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png)](https://api.whatsapp.com/send?phone=3513348627)
+</span>
