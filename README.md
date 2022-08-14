@@ -1,6 +1,8 @@
+<p>
 <a height="666px">
-![Hola Mundo](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/assets/holaMundo-dev.gif)
+<img src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/assets/holaMundo-dev.gif"/>
 </a>
+</p>
 
 <h2 align="center">
   💻Desarrlador FullStack
