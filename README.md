@@ -8,10 +8,10 @@
 
 ## Lenguajes y Herramientas:
 
-<p>
+<p  width='40%' align="center">
 
-<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/sequelize32px.png"></a>
-<a><img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/sequelize64px.png"></a>
+<a><img src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/sequelize32px.png"></a>
+<a><img src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/sequelize64px.png"></a>
 💻Conocimientos
 
 </p>
@@ -20,7 +20,8 @@
 
 ## :paperclip: Como contactarme:
 
-<span >
-<a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" ><img width="5%" src="https://cdn-icons-png.flaticon.com/128/121/121509.png"> &nbsp;
-<a href="mailto:ferreyralautaro69@gmail.com" ><img width="5%" src="">
+<span>
+<a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" target="_blank"><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/linkedIn.png"> &nbsp;
+<a href="mailto:ferreyralautaro69@gmail.com" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png">
+<a href="https://api.whatsapp.com/send?phone=3513348627" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png">
 </span>
