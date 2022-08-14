@@ -1,4 +1,4 @@
-![Hola Mundo](https://github.com/WanCirone/FerreyraLautaro/blob/main/assets/holamundo.gif)
+![Hola Mundo](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/assets/holamundo.gif)
 
 <h2 align="center">
   💻Desarrlador FullStack
@@ -9,9 +9,11 @@
 ## Lenguajes y Herramientas:
 
 <p>
-  <h2>
+
+ <img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize32px.gif">
+ <img width="10%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/main/icons/sequelize64px.gif">
   💻Conocimientos
-</h2>
+
 </p>
 
 &nbsp;
