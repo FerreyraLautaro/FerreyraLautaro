@@ -20,8 +20,10 @@
 
 ## :paperclip: Como contactarme:
 
+[Hello, world!](https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png/){target="\_blank"}
 <span>
-<a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" target="_blank"><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/linkedIn.png"> &nbsp;
-<a href="mailto:ferreyralautaro69@gmail.com" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png">
-<a href="https://api.whatsapp.com/send?phone=3513348627" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png">
+<a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" target="_blank"><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/linkedIn.png"/></a>
+&nbsp;
+<a href="mailto:ferreyralautaro69@gmail.com" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/gmail.png"/></a>
+<a href="https://api.whatsapp.com/send?phone=3513348627" target="_blank" ><img width="5%" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/icons/wsp.png"/></a>
 </span>
