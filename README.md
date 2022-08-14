@@ -1,6 +1,6 @@
 <p>
-<a height="60%">
-<img src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/assets/holaMundo-dev.gif"/>
+<a >
+<img height="400px" src="https://github.com/FerreyraLautaro/FerreyraLautaro/blob/master/assets/holaMundo-dev.gif"/>
 </a>
 </p>
 
