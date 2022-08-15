@@ -44,6 +44,6 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 
 ## **📎 Como contactarme:**
 
-- <a href="https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/" target="_blank"><img src="./icons/link.png" width="7%" /></a><a href="https://api.whatsapp.com/send?phone=3513348627" target="_blank"><img src="./icons/wsp.png" width="7%" /></a>
+- <a href="www.linkedin.com/in/LautaroF-Developer" target="_blank"><img src="./icons/link.png" width="7%" /></a><a href="https://api.whatsapp.com/send?phone=3513348627" target="_blank"><img src="./icons/wsp.png" width="7%" /></a>
   <a href="mailto: ferreyralautaro69@gmail.com?" target="_blank"><img src="./icons/gmail.png" width="7%" /></a>
   - 📧ferreyralautaro69@gmail.com
