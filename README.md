@@ -46,7 +46,7 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 
 ---
 
-<a href="https://frontend-pf-g1.vercel.app/">
+<a href="https://pi-food-sigma.vercel.app/">
 <img src="./images/HenryProyIndividual.jpg" alt="Proyecto Individual Spooncular"  align="right">     
 </a>
 
