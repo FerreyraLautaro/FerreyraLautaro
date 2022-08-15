@@ -1,6 +1,6 @@
 <p>
 <a >
-<img height="400px" width="100%" src="./assets/holaMundo-dev.gif"/>
+<img height="300px" width="100%" src="./assets/holaMundo-dev.gif"/>
 </a>
 </p>
 
@@ -25,8 +25,48 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 
 ---
 
+&nbsp;
+
+## **📚 Proyectos**
+
+&nbsp;
+
+<a href="https://frontend-pf-g1.vercel.app/">
+<img src="./images/henryEcommerce.jpg" alt="E-commerce HenryDiamonds"  align="right">     
+</a>
+
+## E-Commerce
+
+<p width='40%' height="100%"align="rigth"> 
+    <h3>Trabajo final realizado en SoyHenry. Junto a 6 grandes compañeros</h3>
+    Nuestro grupo decidio utilizar la tematica de piedras preciosas y los objetos que pueden realizarse con las mismas.
+    Aca logramos afianzar nuestros conocimientos del Lenguaje aprendido durante el bootcamp. Tales como "JavaScript, React, Redux y materialUi" para el front, Y "Node.js, JavaScript, Sequelize, Postgress" del lado de Backend.
+    <p>Tuve la posibilidad de conocer ambos mundos de la programacion, pero me encontre en Backend, donde pudimos realizar implementaciones con mercado pago, Auth0 para autenticar y el control de rutas.</p>
+    <p>Generamos nuestra propia Base de datos, realaciones y creacion de Rutas para el front y la documentacion de las mismas. Dandole Click a la imagen podran tener acceso a la pagina del proyecto. Muchas gracias por leer!!</p>
+ </p>
+
 &nbsp;&nbsp;
 
+---
+
+<a href="https://frontend-pf-g1.vercel.app/">
+<img src="./images/HenryProyIndividual.jpg" alt="Proyecto Individual Spooncular"  align="right">     
+</a>
+
+## Proyecto Individual
+
+<p width='40%' height="100%"align="rigth"> 
+    <h3>Proyecto realizado individualmente para afianzar conocimientos de Bootcamp</h3>
+    Personalmente me toco trabajar con el consumo de una Api llamada "Spooncular". La misma tenia temática de recetas.
+    <p>En la misma me toco realizar maquetacion de modd para base de datos, conexion de backend con Api y a su vez con el front y la maquetacion total del frontend.</p>
+    <p>Tambien cabe destacar que fue mi primer contacto con el Deploy de proyectos, ya que nunca lo habia hecho y fue un gran desafio.</p>
+    <p>Entre los lenguajes y frameworks utilizados se puede resaltar el uso de JavaScript, React-Redux, SweetAler, Node.js, SequelizeORM y PostgresSQL.  </p>
+    <p>Este Proyecto fue levemente modificado una vez adquiri mayores conocimientos para darle una mejor estetica y funcionamiento. </p>
+    Dandole Click a la imagen podran tener acceso a la pagina del proyecto. Muchas gracias por leer!!
+ </p>
+ 
+---
+&nbsp;
 ## **🛠 Lenguajes y Herramientas:**
 
 <p  width='40%' align="center">
@@ -41,6 +81,8 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 </p>
 
 &nbsp;
+
+---
 
 ## **📎 Como contactarme:**
 
