@@ -32,7 +32,7 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 &nbsp;
 
 <a href="https://frontend-pf-g1.vercel.app/">
-<img src="./images/henryEcommerce.jpg" alt="E-commerce HenryDiamonds"  align="right">     
+<img src="./images/HenryProyIndividual.jpg" alt="E-commerce HenryDiamonds"  align="right">     
 </a>
 
 ## E-Commerce
