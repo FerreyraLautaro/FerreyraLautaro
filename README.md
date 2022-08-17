@@ -27,9 +27,26 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 
 &nbsp;
 
-## **📚 Proyectos**
+## **📚 Proyectos y Web**
 
 &nbsp;
+
+<a href="https://portfolio-qv0y1d4tx-ferreyralautaro.vercel.app/">
+<img src="./images/Portfolio.jpg" alt="Portfolio Lautaro Ferreyra"  align="right">     
+</a>
+
+## Portfolio
+
+<p width='40%' height="100%"align="rigth"> 
+    <h3>Portfolio realizado desde 0 aprendiendo Tailwind CSS</h3>
+    Decidí realizar este proyecto para poder darme a conocer en el ámbito de la programación y poder afianzar mis conocimientos dentro del desarrollo FrontEnd.
+    <p>La versión de este proyecto la iré actualizando a medida que adquiera nuevos conocimientos y pueda generar un aspecto más profesional y mejores funcionalidades</p>
+    <p>El proyecto fue realizado en una plantilla React-App, junto a tailwind y EmailJS para realizar el contacto a través de un formulario.</p>
+ </p
+
+&nbsp;&nbsp;
+
+---
 
 <a href="https://frontend-pf-g1.vercel.app/">
 <img src="./images/henryEcommerce.jpg" alt="E-commerce HenryDiamonds"  align="right">     
