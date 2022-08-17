@@ -86,12 +86,12 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 
 <p  width='40%' align="center">
 
-|                                       |            |                               |         |                                     |           |
-| ------------------------------------- | ---------- | ----------------------------- | ------- | ----------------------------------- | --------- |
-| ![javascript](./icons/javascript.png) | JavaScript | ![nodejs](./icons/nodejs.png) | Node.Js | ![postgres](./icons/postgres.png)   | Postgress |
-| ![react](./icons/react.png)           | React      | ![git](./icons/git.png)       | Git     | ![sequelize](./icons/sequelize.png) | Sequelize |
-| ![redux](./icons/redux.png)           | Redux      | ![html](./icons/html.png)     | HTML    | ![mongodb](./icons/mongodb.png)     | MongoDB   |
-| ![css](./icons/css.png)               | Css        | ![auth0](./icons/auth0.png)   | Auth0   | ![express](./icons/express.png)     | Express   |
+|                                       |            |                               |         |                                     |           |                                     |              |
+| ------------------------------------- | ---------- | ----------------------------- | ------- | ----------------------------------- | --------- | ----------------------------------- | ------------ |
+| ![javascript](./icons/javascript.png) | JavaScript | ![nodejs](./icons/nodejs.png) | Node.Js | ![postgres](./icons/postgres.png)   | Postgress | ![javascript](./icons/tailwind.png) | Tailwind Css |
+| ![react](./icons/react.png)           | React      | ![git](./icons/git.png)       | Git     | ![sequelize](./icons/sequelize.png) | Sequelize |                                     |              |
+| ![redux](./icons/redux.png)           | Redux      | ![html](./icons/html.png)     | HTML    | ![mongodb](./icons/mongodb.png)     | MongoDB   |                                     |              |
+| ![css](./icons/css.png)               | Css        | ![auth0](./icons/auth0.png)   | Auth0   | ![express](./icons/express.png)     | Express   |                                     |              |
 
 </p>
 
