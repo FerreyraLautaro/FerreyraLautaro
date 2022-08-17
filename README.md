@@ -8,8 +8,9 @@
   💻Desarrlador FullStack
 </h2>
 
-
 ## **🧑🏾 Sobre Mi**
+
+---
 
 <p>
 Me apasiona la programación, el continuo aprendizaje y enfrentarme a nuevos desafíos.
@@ -22,12 +23,11 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
 
 </p>
 
----
-
+&nbsp;
 
 ## **📚 Proyectos y Web**
 
-&nbsp;
+---
 
 <a href="https://portfolio-qv0y1d4tx-ferreyralautaro.vercel.app/">
 <img src="./images/Portfolio.jpg" alt="Portfolio Lautaro Ferreyra"  align="right">     
@@ -79,7 +79,9 @@ También considero fundamentales las relaciones humanas y el trabajo en equipo p
     Dándole Click a la imagen podrán tener acceso a la página del proyecto. Muchas gracias por leer!!</p>
  
 ---
+
 &nbsp;
+
 ## **🛠 Lenguajes y Herramientas:**
 
 <p  width='40%' align="center">
